@@ -1,0 +1,38 @@
+
+button {
+  font: size 20px;
+  background-color:yellow ;
+  border: none;
+  cursor:pointer ;
+  height: 32px;
+  font-weight:100px ;
+  transition: opacity 0.15;
+  width: 64px; 
+  margin-left:10px ;
+}
+.img img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50px;
+  margin-left:20px ;
+}
+.wrapper {
+  background-color: darkturquoise;
+}
+.profile {
+  margin-left:15px ; 
+  text-align: left;
+  line: height 40px;
+  font-size: 14px;
+}
+.email{
+  text-align: left;
+  line-height:1.5px ;
+  margin-left:15px ;
+}
+.name {
+  margin-left:15px ;
+}
+.About {
+  margin-left:15px ;
+}
